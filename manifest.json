@@ -1,0 +1,21 @@
+{
+  "short_name": "Sagar Warfade",
+  "name": "Sagar Warfade Portfolio",
+  "icons": [
+    {
+      "src": "HeroImage.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "HeroImage.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/portfolio/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/portfolio/",
+  "theme_color": "#000000"
+}
